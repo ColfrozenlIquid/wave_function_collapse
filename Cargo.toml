@@ -1,0 +1,9 @@
+[package]
+name = "wave_function_collapse"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.13.2"
+bevy-inspector-egui = "0.24.0"
+rand = "0.8.5"
